@@ -1,0 +1,20 @@
+/* This CSS file is created for you to create or override any of the existing CSS styles used in this theme */
+
+a, a:link, a:visited {
+  color: #2a52be;
+}
+
+#nav {
+  width: 990px;
+}
+
+#lang_switch {
+  display: block;
+  width: 150px;
+  padding-left: 50px;
+  margin-bottom: 10px;
+}
+
+#lang_switch li a:hover {
+  font-weight: bold;
+}
